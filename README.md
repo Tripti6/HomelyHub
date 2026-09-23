@@ -1,3 +1,4 @@
+<img width="1430" height="684" alt="profile" src="https://github.com/user-attachments/assets/09ac491f-b10a-4da5-84bb-7eb3fdb6c569" />
 <img width="1328" height="733" alt="map" src="https://github.com/user-attachments/assets/d75361ef-8140-41f9-a65a-bdb5a802d7ce" />#### HomelyHub - AI-Powered Stay Booking App
 full-stack web application that allows users to search, book, and list stays with built-in AI features.  
 
@@ -17,9 +18,11 @@ No Overlapping Dates: Smart date validation hides houses already booked for sele
 Cloud Storage: Optimized property image uploads using ImageKit./ cloudinary  
 AI Assistance: Automated description writer and itinerary planning powered by Groq LLM
 
+<img width="1430" height="684" alt="profile" src="https://github.com/user-attachments/assets/652fb6d5-0129-43fd-a986-54778ea87a7d" />
+
+
 <img width="1100" height="731" alt="your booking" src="https://github.com/user-attachments/assets/813461d1-739d-4797-ae9b-afa77f0dd11a" />
 
-![Uploading boking property.png…]()
 <img width="800" height="427" alt="image" src="https://github.com/user-attachments/assets/f85f894d-d1ba-4460-8cd1-356a5d602626" />
 <img width="611" height="652" alt="list place" src="https://github.com/user-attachments/assets/e169aaf6-fdbc-4ff7-91dd-2f9295f157c7" />
 <img width="661" height="648" alt="trip plan" src="https://github.com/user-attachments/assets/07333231-874d-4d93-925b-8d5e8eb0b6ad" />
