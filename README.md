@@ -1,4 +1,4 @@
-#####  Problem Statement & Why I Built HomelyHub
+#####  Problem Statement & Why I Built TripStayHub
 
 Traditional stay-booking platforms often suffer from key limitations:
 * *Slow Search Process:* Finding stays by city, budget, guests, and dates takes a lot of time.
@@ -10,7 +10,7 @@ Traditional stay-booking platforms often suffer from key limitations:
 
 ##### The Solution
 
-*HomelyHub* addresses these challenges by serving as an all-in-one platform for both booking stays and planning trips:
+*TripStayHub* addresses these challenges by serving as an all-in-one platform for both booking stays and planning trips:
 * *Smart Search & Filters:* Instantly filters options based on city, price, and exact date availability.
 * *Safe Booking Flow:* Prevents double booking by automatically locking booked dates for properties upon confirmed payment.
 * *AI Property Description Generator:* Allows property owners to enter basic details and leverages Groq AI to generate attractive 3–4 sentence property descriptions automatically.
@@ -19,7 +19,7 @@ Traditional stay-booking platforms often suffer from key limitations:
 
 
 
-#### HomelyHub - AI-Powered Stay Booking App
+#### TripStayHub - AI-Powered Stay Booking App
 full-stack web application that allows users to search, book, and list stays with built-in AI features.  
 
 ###  Key Features
