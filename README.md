@@ -1,5 +1,32 @@
+#####  Problem Statement & Why I Built HomelyHub
+
+Traditional stay-booking platforms often suffer from key limitations:
+* *Slow Search Process:* Finding stays by city, budget, guests, and dates takes a lot of time.
+* *Risk of Double Booking:* The same room or property can accidentally get booked twice for identical dates.
+* *Content Barrier for Property Owners:* Small property owners often struggle to write appealing and engaging property descriptions.
+* *Siloed Trip Planning:* Planning daily itineraries within a specific budget usually requires switching to third-party travel websites.
+
+
+
+##### The Solution
+
+*HomelyHub* addresses these challenges by serving as an all-in-one platform for both booking stays and planning trips:
+* *Smart Search & Filters:* Instantly filters options based on city, price, and exact date availability.
+* *Safe Booking Flow:* Prevents double booking by automatically locking booked dates for properties upon confirmed payment.
+* *AI Property Description Generator:* Allows property owners to enter basic details and leverages Groq AI to generate attractive 3–4 sentence property descriptions automatically.
+* *Integrated AI Trip Planner:* Creates tailored day-by-day itineraries based on budget, location, and trip duration alongside matched stay options.
+
+
+
+
+
+
+
+
 <img width="1430" height="684" alt="profile" src="https://github.com/user-attachments/assets/09ac491f-b10a-4da5-84bb-7eb3fdb6c569" />
-<img width="1328" height="733" alt="map" src="https://github.com/user-attachments/assets/d75361ef-8140-41f9-a65a-bdb5a802d7ce" />#### HomelyHub - AI-Powered Stay Booking App
+<img width="1328" height="733" alt="map" src="https://github.com/user-attachments/assets/d75361ef-8140-41f9-a65a-bdb5a802d7ce" />
+
+#### HomelyHub - AI-Powered Stay Booking App
 full-stack web application that allows users to search, book, and list stays with built-in AI features.  
 
 ###  Key Features
