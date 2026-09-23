@@ -1,12 +1,12 @@
 
- 🏠 HomelyHub — Full-Stack Vacation & Property Rental Platform
+ 🏠 TripStayHub — Full-Stack Vacation & Property Rental Platform
 
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=nodedotjs)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?logo=mongodb)](https://www.mongodb.com/)
 [![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC?logo=redux)](https://redux-toolkit.js.org/)
 
-*HomelyHub* is a production-ready, full-stack real estate and property rental web application. It offers a seamless experience for travelers to discover, filter, and book rental properties while empowering hosts to manage their property listings effortlessly.
+*TripStayHub* is a production-ready, full-stack real estate and property rental web application. It offers a seamless experience for travelers to discover, filter, and book rental properties while empowering hosts to manage their property listings effortlessly.
 
 ---
 
@@ -50,7 +50,7 @@
  # System Architecture
 
 
-HomelyHub/
+TripStayHub/
 │
 ├── backend/                      # Express API & Server Logic
 │   ├── controllers/              # Route Logic & Request Handlers
@@ -129,13 +129,13 @@ src/components/myBookings/BookingDetails.jsx   booking details
 
 
 ===================================================================
-               HOW TO RUN HOMELYHUB  PROJECT
+               HOW TO RUN TripStayHUB  PROJECT
 ===================================================================
 
                 
                     +--------------------------+
                     |  2. Open VS Code Terminal|
-                    |       cd HomelyHub       |
+                    |       cd TripStayHub       |
                     +--------------------------+
                                  |
          +-----------------------+-----------------------+
