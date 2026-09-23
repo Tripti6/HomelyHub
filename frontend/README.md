@@ -47,7 +47,7 @@
 ---
 
 
- 📁 System Architecture
+ # System Architecture
 
 
 HomelyHub/
