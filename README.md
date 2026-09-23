@@ -16,3 +16,5 @@ AI & Cloud Services: Groq SDK (LLM for AI features), ImageKit/cloudinary (for im
 No Overlapping Dates: Smart date validation hides houses already booked for selected dates.  
 Cloud Storage: Optimized property image uploads using ImageKit./ cloudinary  
 AI Assistance: Automated description writer and itinerary planning powered by Groq LLM
+
+<img width="1470" height="956" alt="profile" src="https://github.com/user-attachments/assets/b457865c-fb1e-4cf2-9962-36de9c81e4ba" />
